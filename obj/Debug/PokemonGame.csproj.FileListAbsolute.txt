@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\DotNetProjects\PokemonGame\obj\Debug\PokemonGame.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\PokemonGame\obj\Debug\PokemonGame.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\PokemonGame\bin\Debug\PokemonGame.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\PokemonGame\bin\Debug\PokemonGame.exe
+C:\ElevenFiftyProjects\DotNetProjects\PokemonGame\bin\Debug\PokemonGame.pdb
+C:\ElevenFiftyProjects\DotNetProjects\PokemonGame\obj\Debug\PokemonGame.exe
+C:\ElevenFiftyProjects\DotNetProjects\PokemonGame\obj\Debug\PokemonGame.pdb
+C:\Users\koald\Documents\ElevenFiftyProjects\PokemonGame\bin\Debug\PokemonGame.exe.config
+C:\Users\koald\Documents\ElevenFiftyProjects\PokemonGame\bin\Debug\PokemonGame.exe
+C:\Users\koald\Documents\ElevenFiftyProjects\PokemonGame\bin\Debug\PokemonGame.pdb
+C:\Users\koald\Documents\ElevenFiftyProjects\PokemonGame\obj\Debug\PokemonGame.csprojAssemblyReference.cache
+C:\Users\koald\Documents\ElevenFiftyProjects\PokemonGame\obj\Debug\PokemonGame.csproj.CoreCompileInputs.cache
+C:\Users\koald\Documents\ElevenFiftyProjects\PokemonGame\obj\Debug\PokemonGame.exe
+C:\Users\koald\Documents\ElevenFiftyProjects\PokemonGame\obj\Debug\PokemonGame.pdb
