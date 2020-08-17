@@ -7,218 +7,218 @@ using System.Threading.Tasks;
 
 namespace PokemonGame
 {
-    public class Charmander : Pokemon
+    public class Tarmander : Pokemon
     {
-        public Charmander()
+        public Tarmander()
         {
-            Creature = "Charmander";
+            Creature = "Tarmander";
             PokeType = PokeType.Fire;
             Score = 20;
         }
     }
-    public class Bulbasaur : Pokemon
+    public class Tulbasaur : Pokemon
     {
-        public Bulbasaur()
+        public Tulbasaur()
         {
-            Creature = "Bulbasaur";
+            Creature = "Tulbasaur";
             PokeType = PokeType.Grass;
             Score = 20;
         }
     }
-    public class Squirtle : Pokemon
+    public class Tuirtle : Pokemon
     {
-        public Squirtle()
+        public Tuirtle()
         {
-            Creature = "Squirtle";
+            Creature = "Tuirtle";
             PokeType = PokeType.Water;
             Score = 20;
         }
     }
-    public class Vulpix : Pokemon
+    public class Tulpix : Pokemon
     {
-        public Vulpix()
+        public Tulpix()
         {
-            Creature = "Vulpix";
+            Creature = "Tulpix";
             PokeType = PokeType.Fire;
             Score = 20;
         }
     }
-    public class Ponyta : Pokemon
+    public class Tonyta : Pokemon
     {
-        public Ponyta()
+        public Tonyta()
         {
-            Creature = "Ponyta";
+            Creature = "Tonyta";
             PokeType = PokeType.Fire;
             Score = 20;
         }
     }
-    public class Cyndaquil : Pokemon
+    public class Tyndaquil : Pokemon
     {
-        public Cyndaquil()
+        public Tyndaquil()
         {
-            Creature = "Cyndaquil";
+            Creature = "Tyndaquil";
             PokeType = PokeType.Fire;
             Score = 20;
         }
     }
-    public class Oddish : Pokemon
+    public class Toddish : Pokemon
     {
-        public Oddish()
+        public Toddish()
         {
-            Creature = "Oddish";
+            Creature = "Toddish";
             PokeType = PokeType.Grass;
             Score = 20;
         }
     }
-    public class Bellsprout : Pokemon
+    public class Tellsprout : Pokemon
     {
-        public Bellsprout()
+        public Tellsprout()
         {
-            Creature = "Bellsprout";
+            Creature = "Tellsprout";
             PokeType = PokeType.Grass;
             Score = 20;
         }
     }
-    public class Chikorita : Pokemon
+    public class Tikorita : Pokemon
     {
-        public Chikorita()
+        public Tikorita()
         {
-            Creature = "Chikorita";
+            Creature = "Tikorita";
             PokeType = PokeType.Grass;
             Score = 20;
         }
     }
-    public class Psyduck : Pokemon
+    public class Tyduck : Pokemon
     {
-        public Psyduck()
+        public Tyduck()
         {
-            Creature = "Psyduck";
+            Creature = "Tyduck";
             PokeType = PokeType.Water;
             Score = 20;
         }
     }
-    public class Horsea : Pokemon
+    public class Torsea : Pokemon
     {
-        public Horsea()
+        public Torsea()
         {
-            Creature = "Horsea";
+            Creature = "Torsea";
             PokeType = PokeType.Water;
             Score = 20;
         }
     }
-    public class Magikarp : Pokemon
+    public class Tagikarp : Pokemon
     {
-        public Magikarp()
+        public Tagikarp()
         {
-            Creature = "Magikarp";
+            Creature = "Tagikarp";
             PokeType = PokeType.Water;
             Score = 20;
         }
     }
-    public class Pikachu : Pokemon
+    public class Tikachu : Pokemon
     {
-        public Pikachu()
+        public Tikachu()
         {
-            Creature = "Pikachu";
+            Creature = "Tikachu";
             PokeType = PokeType.Electric;
             Score = 20;
         }
     }
-    public class Jolteon : Pokemon
+    public class Tolteon : Pokemon
     {
-        public Jolteon()
+        public Tolteon()
         {
-            Creature = "Jolteon";
+            Creature = "Tolteon";
             PokeType = PokeType.Electric;
             Score = 20;
         }
     }
-    public class Voltorb : Pokemon
+    public class Toltorb : Pokemon
     {
-        public Voltorb()
+        public Toltorb()
         {
-            Creature = "Voltorb";
+            Creature = "Toltorb";
             PokeType = PokeType.Electric;
             Score = 20;
         }
     }
-    public class Mareep : Pokemon
+    public class Tareep : Pokemon
     {
-        public Mareep()
+        public Tareep()
         {
-            Creature = "Mareep";
+            Creature = "Tareep";
             PokeType = PokeType.Electric;
             Score = 20;
         }
     }
-    public class Caterpie : Pokemon
+    public class Taterpie : Pokemon
     {
-        public Caterpie()
+        public Taterpie()
         {
-            Creature = "Caterpie";
+            Creature = "Taterpie";
             PokeType = PokeType.Bug;
             Score = 20;
         }
     }
-    public class Weedle : Pokemon
+    public class Teedle : Pokemon
     {
-        public Weedle()
+        public Teedle()
         {
-            Creature = "Weedle";
+            Creature = "Teedle";
             PokeType = PokeType.Bug;
             Score = 20;
         }
     }
-    public class Wurmple : Pokemon
+    public class Turmple : Pokemon
     {
-        public Wurmple()
+        public Turmple()
         {
-            Creature = "Wurmple";
+            Creature = "Turmple";
             PokeType = PokeType.Bug;
             Score = 20;
         }
     }
-    public class Paras : Pokemon
+    public class Taras : Pokemon
     {
-        public Paras()
+        public Taras()
         {
-            Creature = "Paras";
+            Creature = "Taras";
             PokeType = PokeType.Bug;
             Score = 20;
         }
     }
-    public class Rattata : Pokemon
+    public class Tattata : Pokemon
     {
-        public Rattata()
+        public Tattata()
         {
-            Creature = "Rattata";
+            Creature = "Tattata";
             PokeType = PokeType.Normal;
             Score = 20;
         }
     }
-    public class Ditto : Pokemon
+    public class Titto : Pokemon
     {
-        public Ditto()
+        public Titto()
         {
-            Creature = "Ditto";
+            Creature = "Titto";
             PokeType = PokeType.Normal;
             Score = 20;
         }
     }
-    public class Eevee : Pokemon
+    public class Teevee : Pokemon
     {
-        public Eevee()
+        public Teevee()
         {
-            Creature = "Eevee";
+            Creature = "Teevee";
             PokeType = PokeType.Normal;
             Score = 20;
         }
     }
-    public class Pidgey : Pokemon
+    public class Tidgey : Pokemon
     {
-        public Pidgey()
+        public Tidgey()
         {
-            Creature = "Pidgey";
+            Creature = "Tidgey";
             PokeType = PokeType.Normal;
             Score = 20;
         }
